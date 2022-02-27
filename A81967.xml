@@ -1,0 +1,723 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>London, King Charles his Augusta, or, city royal. Of the founders, the names, and oldest honours of that city. An historicall and antiquarian work. Written at first in heroicall Latin verse, according to Greek, Roman, British, English, and other antiquities and authorities, and now translated into English couplets, with annotations. Imprimatur, Na. Brent.</title>
+            <author>D'Avenant, William, Sir, 1606-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81967</idno>
+            <idno type="STC">Wing D328</idno>
+            <idno type="STC">Thomason E431_8</idno>
+            <idno type="STC">ESTC R202046</idno>
+            <idno type="EEBO-CITATION">99862469</idno>
+            <idno type="PROQUEST">99862469</idno>
+            <idno type="VID">114629</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114629)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E431[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>London, King Charles his Augusta, or, city royal. Of the founders, the names, and oldest honours of that city. An historicall and antiquarian work. Written at first in heroicall Latin verse, according to Greek, Roman, British, English, and other antiquities and authorities, and now translated into English couplets, with annotations. Imprimatur, Na. Brent.</title>
+                  <author>D'Avenant, William, Sir, 1606-1668.</author>
+               </titleStmt>
+               <extent>[8], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Leybourn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sir William D'Avenant's name appears in the Address to the Reader.</note>
+                  <note>Imperfect: staining.</note>
+                  <note>Annotation on Thomason copy: "March 7th 1648"; the '8' in imprint date is crossed out and replaced with '7'.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114629:1" rendition="simple:additions"/>
+            <p>LONDON KING CHARLES <hi>HIS</hi> AUGUSTA, OR, <hi>CITY ROYAL.</hi>
+            </p>
+            <p>Of the Founders, the Names, and oldeſt Honours of that <hi>CITY.</hi>
+            </p>
+            <p>
+               <hi>An Hiſtoricall and Antiquarian Work.</hi>
+            </p>
+            <p>Written at firſt in Heroicall Latin Verſe, according to Greek, Roman, Britiſh, Engliſh, and other Antiquities and Authorities, and now tranſlated into Engliſh Couplets, with Annotations.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 142.5.</hi>
+               </bibl>
+               <p>Memor fui dierum antiquorum.</p>
+            </q>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>Na. Brent.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON. Printed for <hi>William Leybourn,</hi> 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114629:2"/>
+            <pb facs="tcp:114629:2"/>
+            <head>TO THE READER,</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou art here preſented with an <hi>Hiſtoricall Poem</hi> of the antiquity of this (yet) fa<g ref="char:EOLhyphen"/>mous <hi>City;</hi> where thou ſhall finde the <hi>Ancient Honours</hi> with the ſeverall <hi>Names,</hi> and <hi>Founders</hi> neatly caſt into this elegant compoſure as well be fits ſo excellent a <hi>Subject.</hi>
+            </p>
+            <p>For the <hi>Author,</hi> it ſeems, he was not ambitious that his <hi>Name</hi> ſhould grace his <hi>Worke,</hi> but rather that his <hi>Worke</hi> ſhould grace his <hi>Name:</hi> for let me tell thee, it came from the <hi>Studie</hi> of that accompliſhed <hi>Poet</hi> of our <hi>Time,</hi> Sir <hi>Will. Davenant,</hi> whoſe <hi>In<g ref="char:EOLhyphen"/>genious Fancy</hi> hath ſpun him ſuch a woofe, of im<g ref="char:EOLhyphen"/>mortall praiſe, that ſhall never be eaten through, with the all-elſe devouring teeth of <hi>Time,</hi> or blaſted by the poyſonous breath of envy.</p>
+            <p>And now I ſhall cleare the <hi>Title</hi> from ſome aſperſi<g ref="char:EOLhyphen"/>ons which malice might be ready to cavill at, becauſe, happily, it may be thought not <hi>Calculated</hi> for the <hi>Pre<g ref="char:EOLhyphen"/>ſent
+<pb facs="tcp:114629:3"/> Times;</hi> yet who knows not that <hi>LONDON</hi> hath always had the honour to be, (as well as to be call'd) <hi>The City Royall;</hi> and I hope, Learning is not ſo much forgot, but by that eaſie figure it may ſtill be tearmed, the <hi>City Loyall;</hi> and then why not <hi>King Charles</hi> his <hi>Auguſta?</hi> although, for more then the laſt Luſtre of yeares it hath been <hi>Divorc'd</hi> from it's greateſt luſtre, namely, the preſence of <hi>Him,</hi> who only made it <hi>Famous.</hi>
+            </p>
+            <p>To conclude, May it be the prayer of all <hi>Loyall Subjects,</hi> and true <hi>Citizens,</hi> that it would pleaſe the <hi>All-Mighty,</hi>
+               <note place="margin">Iſa. 1.26.</note> to turne that <hi>Propheſie,</hi> into an <hi>Hiſtory</hi> amongſt us, <hi>viz.</hi> that <hi>He</hi> would reſtore our <hi>Judges</hi> as at the <hi>Firſt,</hi> and our <hi>Counſellors</hi> as at the <hi>Begin<g ref="char:EOLhyphen"/>ning;</hi> that afterwards, it may be called the <hi>City of Righteouſneſſe; the faithfull City.</hi>
+            </p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+         <div type="quotation">
+            <pb facs="tcp:114629:3"/>
+            <head>
+               <hi>Polid. Virgil.</hi> Anglicae <hi>Hiſt.</hi> lib. 7.</head>
+            <p>Caeterùm, tantùm abfuit, ut <hi>Londinenſes</hi> Cives, qui fide<g ref="char:EOLhyphen"/>liſſimi erant, armis &amp; viris muniti, adventu hoſtium ter<g ref="char:EOLhyphen"/>riti ſint, ut apertis partis adverſùm eos <hi>[DACOS]</hi> confeſtim irruperint, ita ut illi minimè ſuſtinentes ſubitò ceſſerint.</p>
+         </div>
+         <div type="quotation">
+            <head>The valour of the Citizens at the ſiege of <hi>LONDON</hi> by the <hi>DANES,</hi> under King <hi>CANUTUS.</hi> Anno Dom. <hi>MXVII.</hi>
+            </head>
+            <p>BUt ſo far was it off from the Citizens of <hi>London,</hi> who were moſt faithfull, and furniſhed with arms and men, from being frighted at the enemies approach, that forthwith ſetting their City Gates wide open, they ſallyed out againſt them in ſuch a manner, that they being utterly unable to endure the ſhock, ſodainly fell off and went away.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:114629:4"/>
+            <pb facs="tcp:114629:4"/>
+            <head>The Engliſh of the Latine Verſes to the KING, To make the TRANSLATION compleat.</head>
+            <l>
+               <seg rend="decorInit">F</seg>Ames old reſerves my verſes ſubject be,</l>
+            <l>Who <hi>London</hi> built, moſt ſproſp'rous King for thee,</l>
+            <l>(Thine Empires glory, ſplendor, and defence,</l>
+            <l>Now braver in our there born<note n="*" place="margin">Alluding to the Star which appeared at noon-day. The Latin word, in the o<g ref="char:EOLhyphen"/>riginall, is <hi>Aſtriferi,</hi> which ſignifies, or in<g ref="char:EOLhyphen"/>ſinuates, far more aptly then the En<g ref="char:EOLhyphen"/>glish, a Prince who brought a Star with him at his birth, though happing a day over.</note> ſtarry Prince)</l>
+            <l>Wall'd like an Harp in form (an omen ſure,</l>
+            <l>That peace, and happy rule ſhould there endure)</l>
+            <l>Whence the name grew; and what the changes were:</l>
+            <l>I ſing in brief. Things found, not fain'd are here.</l>
+            <l>Th' Iſles Mother-town, where <hi>Cynthia</hi> had her ſeat,</l>
+            <l>Our <hi>Auſpurg</hi> once, becauſe Imperiall great,</l>
+            <l>I ſhow to be ſuch ſtill, as fits thy fame,</l>
+            <l>And now <hi>Aeternall,</hi> if thou ſay'ſt the ſame.</l>
+            <pb facs="tcp:114629:5"/>
+            <l>"Old things have ever with the Great their grace;</l>
+            <l>"And greatly make for Kings of ancient race.</l>
+            <l>None more then Thou, by whom all claimes are barr'd.</l>
+            <l>I tell not which is true, but what is heard.</l>
+            <l>"He's bleſt who can part doubtfull things from ſound.</l>
+            <l>Mean-while then theſe none certainer are found.</l>
+            <l>As none, dread <hi>Sir,</hi> then I more thine can be,</l>
+            <l>Who art his ſonne who was a God to me.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:114629:5"/>
+            <head>KING CHARLES HIS AUGUSTA, OR <hi>CITY ROYAL.</hi>
+            </head>
+            <lg>
+               <l>HE built this City, who the Nation<note n="a" place="margin">NENNIUS (who wrote about eight hundred years ſince) in Mr. <hi>Seldens</hi> Manu<g ref="char:EOLhyphen"/>ſcript, diligently co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>pared by himſelfe with Sir <hi>H. Saviles,</hi> Sir <hi>Robert Cottons,</hi> &amp; M. <hi>Cambdens</hi> copies. Sir <hi>Iohn Priſe, Hum<g ref="char:EOLhyphen"/>frey Lhuyd,</hi> &amp; all the Welſh, with innume<g ref="char:EOLhyphen"/>rable other of our Nation, their follow<g ref="char:EOLhyphen"/>ers.</note> brought,</l>
+               <l>(As we by al our old known books are taught,</l>
+               <l>And to deny them faith our manners ſhames)</l>
+               <l>Upon the riſing banke of royall <hi>Thames;</hi>
+               </l>
+               <l>That valiant Worthy, who did not bely,</l>
+               <l>With deeds degenerous, his anceſtry,</l>
+               <l>Equall to Kings of <hi>Troy,</hi> for parts and fame,</l>
+               <l>Moſt luckie diſmally who rightly came</l>
+               <l>From the ſame ſtemm where <hi>Julius Caeſar</hi> grew,</l>
+               <l>The <hi>Sylvian</hi> glory and ſirnamed new,</l>
+               <pb n="2" facs="tcp:114629:6"/>
+               <l>Of his known flight (with<note n="b" place="margin">
+                     <hi>Plinie,</hi> and before him <hi>Diodorus Si<gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </hi> who writes that <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the <hi>Lucanian</hi> Lan<g ref="char:EOLhyphen"/>guuge BRU<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſigni<g ref="char:EOLunhyphen"/>fies fugitives, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> flight the word doth ſuit)</l>
+               <l>In old <hi>Lucanian</hi> who was wiſe, ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Brut<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </l>
+               <l>Of him our famous<note n="c" place="margin">
+                     <hi>Scorbie-graſſe,</hi> which the Romans call <hi>Britannica.</hi>
+                  </note> h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> took alſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame,</l>
+               <l>If true it be that from a Kings it came,</l>
+               <l>As he who was <hi>Veſpaſians</hi>
+                  <note n="d" place="margin">Plinie.</note> freind ſets down.</l>
+               <l>By flight fates drew the way for <hi>Brutes</hi> renwon,</l>
+               <l>"As for <hi>Aenoa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Crowne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o cowerds <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>"No more then unſtirr'd flames the roof attain.</l>
+               <l>This was his <hi>Troy,</hi> his <hi>Trinobants</hi> cheif ſeat,</l>
+               <l>His empires top, by him in time made great.</l>
+               <l>But being found for ſhips a port ſecure,</l>
+               <l>(Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Welſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> a ſhip call<note n="e" place="margin">Mr. <hi>Camden</hi> in his <hi>Britannia.</hi>
+                  </note> 
+                  <hi>Lhong</hi>) it did enu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>In after-ages far another name,</l>
+               <l>Even <hi>London,</hi> which it beareth ſtill the ſame.</l>
+               <l>And this, if ſome wiſe men rove right, is true;</l>
+               <l>
+                  <hi>Dinas,</hi> in <hi>Welſh</hi> a City. Thus it grew.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="f" place="margin">Mr. <hi>Selden,</hi> and many of the Welſh.</note>There othe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are who think it call'd <hi>Lhan-Tain,</hi>
+               </l>
+               <l>And of <hi>Dianas</hi> temple there did gain,</l>
+               <l>That famous title: <hi>Lhan,</hi> a temple is,</l>
+               <l>And <hi>Tain, Diana<g ref="char:punc">▪</g> London</hi> grew from this.</l>
+               <l>Now, more then ſtories, if conjectures weigh,</l>
+               <l>(A thing to which even common ſenſe ſaith nay)</l>
+               <l>Of all conjectures this to me ſeems beſt.</l>
+               <l>For under her, as Goddeſſe, to the Weſt,</l>
+               <l>Beyond the <hi>Colts</hi> land, where the Sun goes down,</l>
+               <l>That brave heroick Prince, born to renown,</l>
+               <l>Great <hi>Brutus</hi> barvely came, and fixt his ſeat,</l>
+               <l>Within the <hi>Oceans</hi> boſome, fixt that great,</l>
+               <l>Imperiall ſtate, beyond the worlds known end,</l>
+               <l>Shut out, where he his own known world did tend.</l>
+            </lg>
+            <lg>
+               <l>Nor <hi>Tamiſis,</hi> but <hi>Tainiſis</hi> is <hi>Tames,</hi>
+               </l>
+               <l>If rightly call'd; <hi>Dianas</hi> name it names.</l>
+               <pb n="3" facs="tcp:114629:6"/>
+               <l>This, many of our <hi>Britannes</hi> (they are thoſe,</l>
+               <l>Whom we call <hi>Welſhmen</hi>) for a truth depoſe.</l>
+            </lg>
+            <lg>
+               <l>And what thou haſt, my <hi>Williams,</hi> in this caſe,</l>
+               <l>Moſt aptly found, my memory muſt embrace.</l>
+            </lg>
+            <lg>
+               <l>Thou art opinioned; that as the name,</l>
+               <l>Of <hi>London,</hi> from the great <hi>Diana</hi> came,</l>
+               <l>So, that it was with this word <hi>Lin,</hi> put to,</l>
+               <l>Which ſignifies a Pool, where waters doe,</l>
+               <l>As here they did, cauſe lakes: and this is plain;</l>
+               <l>Becauſe the <hi>Tames</hi>
+                  <note n="g" place="margin">The Poole is a place ſo called in the River of <hi>Thames</hi> neer to the Tower of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> where ſhips ride thickeſt at anchor, &amp; lies before the marſhy medows &amp; ſtanding waters in the runn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lands of <hi>Redderiffe,</hi> which ſeem to have al thereof been under water or a Pool.</note> near part doth ſtill retain,</l>
+               <l>The title of The pool. <hi>Lhyn-Tain</hi> is then,</l>
+               <l>A town there fixt, where to <hi>Diana,</hi> men,</l>
+               <l>Had hallowed a lake. To ſtrengthen this,</l>
+               <l>
+                  <hi>Lin,</hi> and not <hi>Lon, in Stephans</hi>
+                  <note n="h" place="margin">
+                     <hi>Stephanus</hi> (who wrote above a thou<g ref="char:EOLhyphen"/>ſand yeares ſince in Greeke) in his Book of Cities. And <hi>Mar<g ref="char:EOLhyphen"/>cianus</hi> in his circum-navigation of <hi>Britain,</hi> ſaith that the Citi<g ref="char:EOLhyphen"/>zens were of <hi>Lindo<g ref="char:EOLhyphen"/>ninon</hi> called <hi>Lindoni<g ref="char:EOLhyphen"/>nes,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Lindonion</hi> is,</l>
+               <l>By which that antient <hi>Greek</hi> did <hi>London</hi> ſigne,</l>
+               <l>Among the Cities which then moſt did ſhine.</l>
+            </lg>
+            <lg>
+               <l>But not alone this City took her name,</l>
+               <l>From <hi>Dian',</hi> but the iland took the ſame.</l>
+               <l>For lofty <hi>Britain</hi> is of <hi>Bro</hi> combinde,</l>
+               <l>With <hi>Tain,</hi> and as <hi>Dianas</hi> land deſignde.</l>
+               <l>Which the fit wedlock of thoſe words begets;</l>
+               <l>For <hi>Bro</hi> is land. And that rough ſhire which ſets,</l>
+               <l>Out far into the ſea the huge head ſo,</l>
+               <l>Is <hi>Penbroke</hi> call'd, of <hi>Pen</hi> an head, and <hi>Bro.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Dianas</hi> oracles ſuch credit wun,</l>
+               <l>(As thoſe from which <hi>Brutes</hi> empire firſt begun)</l>
+               <l>That ſo his <hi>Brittans</hi> did her name adore,</l>
+               <l>As <hi>Epheſus</hi> it ſelfe did never more.</l>
+               <l>Muſe, what thoſe were aſſiſt thou me to ſing.</l>
+               <l>From <hi>Troyes</hi> laſt fires whoſe fame through heaven ſhould ring</l>
+               <l>
+                  <hi>Aeneas</hi> flying ignorant what fate</l>
+               <l>Attended for him in the <hi>Latin</hi> ſtate,</l>
+               <pb n="2" facs="tcp:114629:7"/>
+               <l>Rais'd, in his paſſage, upon <hi>Pelops</hi> ſhore,</l>
+               <l>By her direction, near where <hi>Boea</hi> wore,</l>
+               <l>Her towrs in forhead of an half-round Bay,</l>
+               <l>A City call'd<note n="i" place="margin">Paulanias <hi>in</hi> La<g ref="char:EOLhyphen"/>conicis.</note> 
+                  <hi>Etias,</hi> call'd, they ſay,</l>
+               <l>Of his dear daughter, who that name did bear.</l>
+               <l>As unto him, ſo to his grand-childes heir,</l>
+               <l>(<hi>Troyes</hi> other glory, and his whole lines grace)</l>
+               <l>The huntreſſe <hi>Cynthia</hi> favourable was.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Brute,</hi> flying out of <hi>Italy,</hi> doth ſtray,</l>
+               <l>In unknown Seas, fore-ſeeing he ſhould ſway,</l>
+               <l>In ſome brave ſeat, and Generall of a Fleet,</l>
+               <l>Wherein above three hundred ſail did meet,</l>
+               <l>With fair winds ſomewhile, other whiles with fowl,</l>
+               <l>He from the Admiral did all controll.</l>
+               <l>Weary with Sea-work, he doth ride at laſt,</l>
+               <l>Under a ſlender Iland, lying waſte,</l>
+               <l>Which in th' old <hi>Britiſh</hi> book <hi>Lergecia</hi> is.</l>
+               <l>In ages paſt a Temple ſtood in this,</l>
+               <l>Whoſe ruines ſcarcely ſtood: the walls were clad,</l>
+               <l>In ſhallow graſſe; and too much light it had,</l>
+               <l>The roof turn'd window through. Yet th' alter there</l>
+               <l>Remain'd, and did <hi>Dianas</hi> title beare.</l>
+               <l>
+                  <hi>Brute</hi> forth-with knew her, when he this did ſee,</l>
+               <l>His houſes freind, and patroneſſe to be,</l>
+               <l>A Goddeſſe whom he had not ſerv'd in vain.</l>
+               <l>"Without divine help men no good attain.</l>
+               <l>With due rites honoring her, and offerings ſtore,</l>
+               <l>He humbly did with humble words adore.</l>
+            </lg>
+            <lg>
+               <l>This ſpeak I'on the <hi>Britiſh</hi> books report,</l>
+               <l>Which into <hi>Latin</hi> turn'd, and taught to ſort,</l>
+               <l>With common fame, may not diſtruſted be.</l>
+               <l>They taſting of a ſpirit high, and free,</l>
+               <pb n="7" facs="tcp:114629:7"/>
+               <l>Aſwell in ſenſe, as number, he, in vain,</l>
+               <l>(Who, while he<note n="k" place="margin">
+                     <hi>G. Buchanan</hi> in his Hiſtories of <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+                  </note> lived, did in verſes reign,</l>
+               <l>Hiſtorian turn'd) them blames as fiction meer,</l>
+               <l>Who well his own might wiſh the verſes were.</l>
+               <l>And would to heaven theſe <hi>Welſh</hi> records in proſe,</l>
+               <l>Were equal in their dignity to thoſe.</l>
+               <l>"But diamonds in heaps of dirt doe ſhine,</l>
+               <l>"And barbariſm baſe unfoldeth lights, divine.</l>
+               <l>Nor would that Prelate,<note n="l" place="margin">
+                     <hi>Geffrey,</hi> born at <hi>Monmouth</hi> in South-<hi>Wales,</hi> Biſhop of St. <hi>Aſaph,</hi> about 400 years ſince.</note> who ſo clerkly could,</l>
+               <l>Turn Verſes, fain in proſe (if fain he would)</l>
+               <l>Such fooliſh things as ſome there found are thought.</l>
+               <l>He therefore only<note n="m" place="margin">This ſeemes to bee moſt true. For firſt <hi>Nennius</hi> (that diſciple of <hi>Elnodugus</hi>) compendiouſly memorizeth <hi>Brutes</hi> fatal birth, his caſuall killing of his Father, his ſailing into <hi>Greece,</hi> and <hi>Gall,</hi> and that this Iſland took the name of <hi>Brittain</hi> from him. Then again, an old book found in the library of the Abbey <hi>Beck</hi> in <hi>Nor<g ref="char:EOLhyphen"/>mandy,</hi> by <hi>H.</hi> of <hi>Huntingdon,</hi> (who was born about five hundred yeares ſince) in his tra<g ref="char:EOLhyphen"/>vail to <hi>Rome,</hi> and the old Welſh copy of <hi>Walter</hi> Archdeacon of <hi>Oxford</hi> which <hi>Geffrey</hi> of <hi>Monmouth</hi> tranſlated into Latin, contain the ſame things thoughout (witneſſe Mr. <hi>Lam<g ref="char:EOLhyphen"/>bert,</hi> in his Preambulation of <hi>Kent</hi>) which <hi>Nennius</hi> briefly touch, and they deliver at large. Therefore <hi>Geffrey</hi> of <hi>Monmouth</hi> cannot be ſo much as fained, to have fained them. But of theſe things elſwhere, both more exactly, and more copiouſly.</note> gave us what was brought;</l>
+               <l>And that his duty was. The faults which be,</l>
+               <l>There age, if nothing elſe, pronounceth free.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:114629:8"/>
+               <head>BRUTES Oriſon, and Vow.</head>
+               <lg>
+                  <l>HUntreſſe divine, from whom wilde boars doe flye,</l>
+                  <l>Who traceſt through the turnings of the skye,</l>
+                  <l>And glades of hell, unfold terreſtriall fate;</l>
+                  <l>Say where it is thy will to fix our ſtate.</l>
+                  <l>Seat us where we thine endleſſe praiſe will ſound,</l>
+                  <l>And temples reare with queers of virgins crown'd.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Sweet ſleep then ſeiſeth on him, and ſweet dreams</hi>
+                  </l>
+                  <l>
+                     <hi>Preſent to his tirde ſoul their pleaſing theames.</hi>
+                  </l>
+                  <l>
+                     <hi>For ſhee appear'd, and this fair anſwer gave,</hi>
+                  </l>
+                  <l>
+                     <hi>Which from the true, tranſlatour here we have.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <head>DIANAS Oracle, and Grant</head>
+               <l>BRute, <hi>beyond</hi> Gall, <hi>where</hi> Phoebus <hi>ſtoops to reſt,</hi>
+               </l>
+               <l>
+                  <hi>A land is lodg'd within the</hi> Oceans <hi>breſt,</hi>
+               </l>
+               <l>
+                  <hi>Which once wilde gyants held, now vacant lyes,</hi>
+               </l>
+               <l>
+                  <hi>Moſt fit for</hi> Thee Thine There <hi>t'encolonize.</hi>
+               </l>
+               <l>
+                  <hi>Reach</hi> This. <hi>For</hi> Thou <hi>ſhalt ever</hi> This <hi>enjoy;</hi>
+               </l>
+               <l>This <hi>ſhall to</hi> Thine <hi>be made a ſecond</hi> Troy.</l>
+               <l>Here, <hi>from</hi> Thy <hi>loines ſhall royal of-ſprings growe,</hi>
+               </l>
+               <l>
+                  <hi>To whom</hi>
+                  <note n="n" place="margin">A Propheſie no<g ref="char:EOLhyphen"/>thing leſſe then a lie. For the whole World of the Britian Iſlands which very lately were under King <hi>James,</hi> is now obedient to his ſon King CHARLES. The whole World moreover was ſubject of old to <hi>Conſtantine</hi> a Brittain who was Emperour, or <hi>Caeſar Auguſtus.</hi> The Oracle therefore is fulfilled in both thoſe reſpects<g ref="char:punc">▪</g> and in a more high, (of which the ſpirit of the Oracle thought nothing, but as one of the Sibills or <hi>Balaam</hi> might) that is to ſay, the Empire of the faith of Chriſt, by means of that bleſſed Emperour, being through all Nations moſt freely ſpred and ſetled.</note> 
+                  <hi>the whole worlds globe ſhall homage owe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:114629:8"/>
+               <l>Hence came it, that ſo conſtantly, and long,</l>
+               <l>Chaſte <hi>Cynthias</hi> honor was the <hi>Brittans</hi> ſong.</l>
+               <l>"Who would'ſt be ſo<g ref="char:cmbAbbrStroke">̄</g>thing, ſet thine heart to know</l>
+               <l>"Things lo<g ref="char:cmbAbbrStroke">̄</g>g ſince paſt: who doth not, old may ſhow</l>
+               <l>"But is an infant. That which makes men wiſe,</l>
+               <l>"Is the records of ages to reviſe,</l>
+               <l>"The ſacred ſhrines, and cabanets abſtruſe,</l>
+               <l>"Of hoary date, worn out of Vulgar uſe.</l>
+               <l>Thus divine <hi>Plato</hi> was in <hi>Aegypt</hi> told,</l>
+               <l>And hath in his <hi>Timaeus</hi> it enrold.</l>
+            </lg>
+            <lg>
+               <l>To herth' whole Iſland dedicated was.</l>
+               <l>For where St. <hi>Pauls</hi>
+                  <note n="o" place="margin">
+                     <hi>Sulcardus,</hi> an ancient Engliſh wri<g ref="char:EOLhyphen"/>ter.</note> moſt ſtately church haht place,</l>
+               <l>Her temple ſtood, under<note n="p" place="margin">
+                     <hi>Geofrey</hi> of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> of the Origi<g ref="char:EOLhyphen"/>nall and acts of the Brittains, <hi>lib.</hi> 2. <hi>cap.</hi> 1. The ſeats of the three Arch-flamins were at <hi>London, York,</hi> and <hi>Caer Leon. Sedes Ar<g ref="char:EOLhyphen"/>cbiſtaminum in tribus nobilloribus civitati<g ref="char:EOLhyphen"/>bus fuerant</hi> Londoni<g ref="char:EOLhyphen"/>is, <hi>Eboraco, &amp; in Urbe</hi> Legionum.</note> th' Archflamins charge.</l>
+               <l>The gyants Dance (ſo call'd) that ſtructure large,</l>
+               <l>On Plaines of <hi>Sal'sbery,</hi> the ſame doth ſhowe,</l>
+               <l>Where made ſto<g ref="char:cmbAbbrStroke">̄</g>es ar more hard the<g ref="char:cmbAbbrStroke">̄</g> ſto<g ref="char:cmbAbbrStroke">̄</g>es that grow</l>
+               <l>The common ſort that heap doth Stonage name;</l>
+               <l>And albeit heavens whole force beats the ſame;</l>
+               <l>As diſobedient; undemoliſht ſtill,</l>
+               <l>Yet beares it up the head, and ever will,</l>
+               <l>Though part be ſwallowed by the yeilding ground.</l>
+               <l>It hath two rude rowes of huge ſtone ſet round,</l>
+               <l>(Rude ones indeed unleſſe time makes them ſuch,</l>
+               <l>The art worn out, and of the ſubſtance, much)</l>
+               <l>From under whoſe vaſt pile late times did dig,</l>
+               <l>The antlers of a dear extremely big,</l>
+               <l>Whoſe ſacrificed body flames had fed.</l>
+               <l>Such were the offerings which to <hi>Cynthia</hi> bled.</l>
+               <l>He, whoſoever, holdeth, that the ſame,</l>
+               <l>Was rais'd t' immortaliſe<note n="q" place="margin">In the book cal<g ref="char:EOLhyphen"/>led <hi>Nero Caſar.</hi>
+                  </note> 
+                  <hi>Bunducas</hi> name,</l>
+               <l>That martial Queen, ſhall have no foe of me:</l>
+               <l>For, without <hi>Phoebes</hi> wrong, it well may be.</l>
+               <pb n="6" facs="tcp:114629:9"/>
+               <l>Thus <hi>Britain</hi> ever more that Virgins ſtyle.</l>
+               <l>
+                  <hi>Britain,</hi> th' <hi>Atlantick</hi> Oceans faireſt Ile,</l>
+               <l>It ſelf the <hi>Oceans</hi> miſtreſſe, and ſole Queen,</l>
+               <l>Which ſhe to curb from her white clifts is ſeen.</l>
+               <l>The circling Seas chief darling, pearl more clear,</l>
+               <l>Then is the Moon when ſhe doth full appear:</l>
+               <l>Although the <hi>Britiſh</hi> pearls look pale,<note n="r" place="margin">
+                     <hi>Plinie</hi> in his Na<g ref="char:EOLhyphen"/>urall Hiſtory.</note> and wan,</l>
+               <l>For grief they took, ſince ſo far <hi>Caeſar</hi> ran,</l>
+               <l>As to break through the ſecrets of her Seas,</l>
+               <l>Nor have they yet recover'd their diſeaſe;</l>
+               <l>Unlike thoſe pearls, which that triumphant Prince,</l>
+               <l>Did gather here, and brought away from hence,</l>
+               <l>To deck the breſt-plate, he to <hi>Venus</hi> vow'd,</l>
+               <l>In <hi>Venus</hi>
+                  <note n="ſ" place="margin">Suetonius <hi>in his</hi> Julius Caeſar.</note> Temple, <hi>Rome</hi> thereby made proud.</l>
+            </lg>
+            <lg>
+               <l>But ever under Virgins was our Ile.</l>
+               <l>The bleſſed Virgin had it in her ſtyle,</l>
+               <l>After <hi>Diana</hi> had the title loſt:</l>
+               <l>The maiden mother <hi>Delias</hi> glory croſt,</l>
+               <l>"Light drives out darkneſſe, milde the fierce out-weares,</l>
+               <l>Protectrix here above one thouſand yeares.</l>
+            </lg>
+            <lg>
+               <l>This mov'd King <hi>Arthur</hi> to advance in<note n="t" place="margin">
+                     <hi>William</hi> of <hi>Mal<g ref="char:EOLhyphen"/>mesburie,</hi> in his Latin Hiſtories, publiſhed by Sr. <hi>H. Saevile,</hi> and dedicated, with the works of ſome other our oldeſt Hiſtorians, (by that rare gentleman) to Q. <hi>Elizabeth,</hi> printed in one great Volume, at <hi>London,</hi> firſt, and ſince beyond the ſeas. Mr. <hi>Camden</hi> makes it clear, that this moſt victorious <hi>Britian</hi> Prince, King <hi>Arthur,</hi> was enterred at <hi>Glaſtenburie.</hi>
+                  </note> ſheild,</l>
+               <l>The Virgins ſemblant, who from every field,</l>
+               <l>Returning victor vanquiſhed in fight,</l>
+               <l>The <hi>Saxons</hi> powr's (in vain, through fates deſpight,</l>
+               <l>The <hi>Britans</hi> bravery withering in his death)</l>
+               <l>And crown'd her forhead w<hi rend="sup">th</hi> a<note n="u" place="margin">
+                     <hi>Nennius</hi> (who alſo writteth of the picture in his ſheild) nameth the twelve ſeverall places where King <hi>Arthur</hi> obtained thoſe twelve ſeverall victories, in the like number of ſet battels.</note> twelvfold wreath.</l>
+               <pb n="9" facs="tcp:114629:9"/>
+               <l>
+                  <hi>England</hi> was after call'd, Our Ladies Dow'r.</l>
+               <l>And we have ſeen it under maidens pow'r;</l>
+               <l>
+                  <hi>Eliza</hi> Maiden Queen, her title reft:</l>
+               <l>
+                  <hi>Dian'</hi> to <hi>Mary, Mary</hi> t' her it left.</l>
+               <l>
+                  <hi>Eliza</hi> ſo was by another name,</l>
+               <l>Enſtyled<note n="x" place="margin">The Art of En<g ref="char:EOLhyphen"/>gliſh poeſie, a book dedicated to her ſelf. Sir <hi>Walter Raleighs</hi> Engliſh Poem entituled <hi>Cynthia,</hi> and dedicated to that Goddeſſe Queen, as Mr. <hi>Camden</hi> every where calls her. The moſt famous, and moſt learned Poet of our Nation, Mr. <hi>Spenſer,</hi> in his <hi>Colin Clowt's</hi> come home again, mentions <hi>Raleighs Cynthia,</hi> with much honour.</note> 
+                  <hi>Cynthia;</hi> nor amiſſe the ſame.</l>
+            </lg>
+            <lg>
+               <l>In the mean time, they will have <hi>London</hi> be,</l>
+               <l>
+                  <hi>Lhan-Tain</hi> of her, that the names pedigree.</l>
+            </lg>
+            <lg>
+               <l>Let various fancies, under face of truth,</l>
+               <l>Take whom they will. My Muſe things ſure enſu'th,</l>
+               <l>Our Worlds chief City loves not names blind born,</l>
+               <l>And what's not like her royall ſelf doth ſcorn.</l>
+               <l>The brother german of that paramount Prince,</l>
+               <l>Great <hi>Caſſibeline,</hi> (who drave<note n="y" place="margin">
+                     <hi>Julius Caeſar</hi> him<g ref="char:EOLhyphen"/>ſelf, (though not ſo clearly) in his Com<g ref="char:EOLhyphen"/>mentaries, and all other who have written of his war in <hi>Britain,</hi> though ſome of them more magnificently, for <hi>Caſſibelines</hi> glory, as <hi>Lucan,</hi> then ſome others have done.</note> 
+                  <hi>Caeſar</hi> hence,</l>
+               <l>And made <hi>Romes</hi> Eagles back to take their flight,</l>
+               <l>His <hi>Troian</hi> wheels ſwift thu<g ref="char:cmbAbbrStroke">̄</g>dring through the fight)</l>
+               <l>His brother, royall <hi>Lud,</hi> when once he had,</l>
+               <l>The aged Citie with new buildings clad,</l>
+               <l>Made all things new, the marble gates, and walls,</l>
+               <l>Then <hi>Dinas-Lud,</hi> or<note n="z" place="margin">
+                     <hi>Gildas,</hi> the Hi<g ref="char:EOLhyphen"/>ſtorian, whom <hi>Mon<g ref="char:EOLhyphen"/>mowth</hi> cites, and <hi>Po<g ref="char:EOLhyphen"/>lydore Virgil</hi> confeſ<g ref="char:EOLhyphen"/>ſeth to have read.</note> 
+                  <hi>Lud-Dine</hi> he it calls,</l>
+               <l>(The old name chang'd, which was at firſt new <hi>Troy,</hi>
+               </l>
+               <l>Whoſe prints the <hi>Trin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bants</hi> in theirs enjoy)</l>
+               <l>
+                  <hi>Lud-Dine,</hi> of <hi>Lud,</hi> refounder of the ſame,</l>
+               <l>By uſe, and time, ſoftned to <hi>Londons</hi> name.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:114629:10"/>
+               <l>Nor is the word, <hi>Lud,</hi> barbarous, being found,</l>
+               <l>In <hi>Hebrew</hi> names, by<note n="a" place="margin">Gen. 10.27.</note> 
+                  <hi>Moſes</hi> ſelf renown'd.</l>
+               <l>Therefore, though <hi>Sems Lud</hi> was no' 'kin to this,</l>
+               <l>Yet to the word thence ſplend or added is.</l>
+            </lg>
+            <lg>
+               <l>This, of all Cities in the <hi>Britiſh</hi> clime,</l>
+               <l>Becauſe, for majeſty, it was the prime,</l>
+               <l>(Old ſeats a kind of majeſty retain)</l>
+               <l>And finally, becauſe it was the main,</l>
+               <l>Of all, which being <hi>Romes,</hi> our Seas did wall,</l>
+               <l>Thoſe times<note n="b" place="margin">Ammianus Mer<g ref="char:EOLhyphen"/>cellus.</note> 
+                  <hi>Auguſta</hi> (nor did falſly) call.</l>
+            </lg>
+            <lg>
+               <l>King<note n="c" place="margin">A Greek coyn of the Emperour <hi>Clau<g ref="char:EOLhyphen"/>dius,</hi> in <hi>Octavius Stra<g ref="char:EOLhyphen"/>da,</hi> and in the Engliſh <hi>Nero Caeſar,</hi> where it is explained.</note> 
+                  <hi>Etiminius,</hi> or<note n="d" place="margin">Svetonius.</note> 
+                  <hi>Adminius</hi> (he,</l>
+               <l>Who, King <hi>Cun' ob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lines</hi> ſon was, one of three)</l>
+               <l>His court kept here, when<note n="e" place="margin">Dion Caſſius.</note> 
+                  <hi>Beric</hi> ſold our land,</l>
+               <l>To <hi>Claudius Caeſar,</hi> who did <hi>Rome</hi> command,</l>
+               <l>And by his right of conqueſt gain'd therein,</l>
+               <l>Made <hi>Romes</hi> walls<note n="f" place="margin">
+                     <hi>Pomeria</hi> protulit. Old Inſcriptions ex<g ref="char:EOLhyphen"/>tant in <hi>Gruterus,</hi> and <hi>Rolinus,</hi> and the beſt ancient authors.</note> wider then they carſt had bin.</l>
+               <l>
+                  <hi>London</hi> was, long before<note n="g" place="margin">Cor. Pacitus, An<g ref="char:EOLhyphen"/>nal. lib. <hi>14.</hi>
+                  </note> 
+                  <hi>Cornelius</hi> wrote,</l>
+               <l>A place for trade, and concourſe moſt of note,</l>
+               <l>And known to <hi>Rome</hi> for ſuch; and long before,</l>
+               <l>To the bold<note n="h" place="margin">
+                     <hi>Julius Caeſar</hi> writes, that the <hi>Britains</hi> ſent aid to the <hi>Galls:</hi> and <hi>Strabo,</hi> that the <hi>Veneti,</hi> in <hi>Gallia,</hi> had ſea helps from hence, in their war againſt <hi>Caeſar,</hi> for preſerving their Mart here, which was no where more likely to have been then at <hi>London,</hi> which, in <hi>Neros</hi> time, was above all other Towns of ours moſt famous.</note> 
+                  <hi>Venets</hi> on the <hi>Celtick</hi> ſhore:</l>
+               <l>Which bred ſuch envy, that the fates thought fit,</l>
+               <l>With <hi>Romes</hi> ſelf, in miſhap to equal it,</l>
+               <l>Under one tyrant both to cinders turn'd,</l>
+               <l>That want only, this miſerably burn'd.</l>
+               <l>But <hi>Londons</hi> greater glory hence did ſpring,</l>
+               <l>That the firſt <hi>Chriſtian,</hi>
+                  <note n="i" place="margin">The old Brittiſh book tranſlated by <hi>Monmouth.</hi>
+                  </note> 
+                  <hi>Lucius,</hi> was her King.</l>
+               <pb n="11" facs="tcp:114629:10"/>
+               <l>The realm,<note n="k" place="margin">Hereof I have long ſince written a ſmall book, unpubli<g ref="char:EOLhyphen"/>ſhed.</note> and <hi>London,</hi> for a ſigne of this,</l>
+               <l>One croſſe diſplay, <hi>gules in argent</hi> is.</l>
+               <l>A glorious ſtandard (God) and good indeed,</l>
+               <l>When the brave <hi>Engliſh,</hi> here<note n="l" place="margin">
+                     <hi>Matthew</hi> of <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and other old ones.</note> made <hi>Pagans</hi> bleed,</l>
+               <l>And <hi>Saracens</hi> there (that <hi>Antichriſtian</hi> ſect)</l>
+               <l>In<note n="m" place="margin">Henry <hi>of</hi> Hun<g ref="char:EOLhyphen"/>tingdon, Matthew Ra<g ref="char:EOLhyphen"/>nis, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eden, <hi>and others.</hi>
+                  </note> 
+                  <hi>Cordelions</hi> dayes, with bleſt effect.</l>
+            </lg>
+            <lg>
+               <l>Great are theſe glories, and enow: but more,</l>
+               <l>Doe here enſue. That Monarch, who firſt wore,</l>
+               <l>And firſt did ſpred in <hi>Roman</hi> arms the croſſe,</l>
+               <l>And therewith his own ſtandard did emboſſe,</l>
+               <l>Call'd <hi>Labarum,</hi>
+                  <note n="n" place="margin">The coines of <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> the Great, and of other Empe<g ref="char:EOLhyphen"/>rours, after him, doe ſhow the figure of that heavenly ſigne, with which he adorned the Imperi<g ref="char:EOLhyphen"/>all<figure/> 
+                     <hi>Banner,</hi> or <hi>Standard,</hi> moſt richly wrought and ſet with ſtones of greateſt price, and beautie. <hi>Euſebius</hi> in <hi>Conſtantines</hi> life. The figure in thoſe coines is</note> who crown'd <hi>Chriſts</hi> fold w<hi rend="sup">th</hi> reſt</l>
+               <l>The empire carrying with him from the VVeſt,</l>
+               <l>He whom new <hi>Rome</hi> did worthily adore,</l>
+               <l>
+                  <hi>Conſtantinoples</hi> name unknown before)</l>
+               <l>VVas born<note n="o" place="margin">
+                     <hi>Fitz-Stephan,</hi> an old Topographer of <hi>London,</hi> firſt publiſh<g ref="char:EOLhyphen"/>ed in print by that memorable Citizen, Mr. <hi>Iohn Stow.</hi> With theſe few ſmall drops, drawn hither out of my fuller annotations upon the Latin verſes, of which theſe are the tranſlation, I have ſprink<g ref="char:EOLhyphen"/>led their margents, as with a kinde of dewle ſalt. For, the noble matter may reliſh ſo the more kindly, and be the more fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tly underſtood, by the learned, and ingenuous reader. Both which aymes of mine will hold good, I hope; who profeſſing my ſelfe to be herein an Hiſtoricall Antiquarie, have truly declared my ſelf to be ſuch, as the duty of mine of<g ref="char:EOLhyphen"/>fice did oblige. The contrary whereof, what it were elſe, then, under the colour of being an Antiquarie, to deſtroy antiquitie, I muſt confeſſe, I know not. The moſt able Cenſor among the Greeks, <hi>Dionyſius Halicarnaſſaeus,</hi> (familiar with <hi>Pompey,</hi> the Great) in his judge<g ref="char:EOLhyphen"/>ment upon the beſt Greek Hiſtorian, <hi>Thucydides,</hi> is ſo far from condmning the inſerting of Nationall traditions into Hiſtories (ſuch as thoſe of <hi>Brute,</hi> and ſome other of ours here are) as he plainly confeſſeth it to be a duty. His one words are;
+<q>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, &amp;c.</q> That among all men, aſwell in generall, concerning places, as in particulars, concerning cities, ſuch memorials were preſerved, as came by hearſay; which ſons receiving from their fathers, they again endeavoured to commend by their ſons to poſterity. They therefore who would write of ſuch, ought to write ſo, as they finde them received of old. Thus, and much more to that purpoſe, upon which the juſtification of <hi>Herodotus</hi> (whom <hi>Cicero</hi> ſtyles the Father of Hiſtories) depends, hath that <hi>Dionyſius</hi> written there, and written truly. That the things in that Britiſh book, which <hi>Geofrey</hi> of <hi>Monmouth</hi> tranſlated, were of ſuch a traditional kinde, his dedicatory Epiſtle to that valiant, and learned Prince, <hi>Robert,</hi> Earle of <hi>Gloceſter,</hi> natural ſon to King <hi>Henry</hi> the firſt, King of <hi>England,</hi> clearly declareth. This was the reaſon which moved <hi>Herodotus</hi> (without fearing, or caring, to be reputed fabul<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, by the raſh, or ignorant, for his ſo doing) to recite what he commonly found in traditions among Nations, Common-weals, or Cities, touching their own originals, as knowing it to be his duty, as an Hiſtorian. Therefore, he tells us, that one <hi>Targitau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> the ſon of <hi>Jupiter,</hi> by the daughter of <hi>Boriſth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nes,</hi> had three ſons, <hi>Lipo-xais, Apo-xais,</hi> and <hi>Colae-xais,</hi> among whom he divided all <hi>Scyt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>a,</hi> which ſo became firſt to be empeopled. The ſame cauſe alſo mo<g ref="char:EOLhyphen"/>ved <hi>Cornel. Tacitus</hi> to remember unto us, that the old Germans derived their beginning from God <hi>Tuiſto,</hi> whoſe three nephews by his ſon <hi>Mannus,</hi> ſhared <hi>Germanie</hi> among them, and were of that Nation the firſt reputed parents. The like (but with much more likelyhood) our oldeſt Britiſh traditions report, of the tripartite diviſion of this great I ſtand, between <hi>Ly<g ref="char:EOLhyphen"/>crinus, Camber,</hi> and <hi>Albanact,</hi> the three ſons of <hi>Brute, Julius Silvius Brutu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> father of the <hi>Britains,</hi> and founder of <hi>London.</hi>
+                  </note> in <hi>London,</hi> of a <hi>Brittiſh</hi> Queen.</l>
+               <l>For which, and that the place was worthy ſeen,</l>
+               <pb n="12" facs="tcp:114629:11"/>
+               <l>To ſuit the change, <hi>Auguſta</hi> 'twas proclam'd:</l>
+               <l>Before his dayes not to be found ſo nam'd.</l>
+               <l>VVherefore, great City, willingly I grant,</l>
+               <l>This freeman unto thee, who well may'ſt vaunt,</l>
+               <l>Thy ſelfe thereof, becauſe he prov'd the man,</l>
+               <l>VVho, firſt of Emperours, the Title wan,</l>
+               <l>And great ſirname of Great. Then let it be,</l>
+               <l>An <hi>omen</hi> apt, that mankindes Cheif, in thee,</l>
+               <l>The cheif of Cities, ſhould be happy born:</l>
+               <l>VVhich, boding nothing, yet does both adorn.</l>
+            </lg>
+            <lg>
+               <l>But if ſhe had not heretofore been taught,</l>
+               <l>That ſtately ſtyle, now certainly ſhe ought,</l>
+               <l>VVhen royall <hi>Charles</hi> the <hi>Britiſh</hi> empire ſwayes.</l>
+               <l>
+                  <hi>London,</hi> which royal <hi>Lud</hi> did newly raiſe,</l>
+               <l>And newly name, now ought <hi>Auguſta</hi> be,</l>
+               <l>VVell able to make good that old decree.</l>
+               <l>The world too narrow for the ſame ſhe beares,</l>
+               <l>With lofty creſt ſhe roll's the heavenly ſpheares.</l>
+            </lg>
+            <lg>
+               <l>Then, 'till the <hi>Thames</hi> ſhall ceaſe to ebb, &amp; flow,</l>
+               <l>The ground to bear, and skyes about to goe,</l>
+               <l>(The heavens, and earth to her moſt freindly both)</l>
+               <l>Aeternall flow'rs the ſtate thereof ſhall cloath,</l>
+               <l>Far (if God will) beyond the reach of ſpight,</l>
+               <l>And, never braver, is <hi>Auguſta</hi> right.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
